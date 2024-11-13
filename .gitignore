@@ -1,0 +1,7 @@
+# editor
+/*.iml
+/.idea
+
+# output
+/out
+__pycache__
